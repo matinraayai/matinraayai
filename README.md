@@ -4,7 +4,7 @@
 - I'm also working with [Harvard Visual Computing Group](https://vcg.seas.harvard.edu/) on some unfinished projects from my co-op in 2018.
 
 # Areas of Interest
-I have a diverse set of interests in computer science/electrical engineering; A non-exhaustive list of what interests me:
+I have a diverse set of interests in computer science/electrical engineering; An exhaustive list of what interests me:
 - Novel Deep Learning approaches and their applications in Computer Vision (Neural Architecture Search, Generative Models, Graph Neural Networks, etc)
 - Structured Pruning and Quantization of Deep Learning Models for usage on edge devices like mobile phones
 - Reinforcement Learning as of recently
@@ -18,9 +18,13 @@ I have a diverse set of interests in computer science/electrical engineering; A 
   - Qubes OS
   - Container Technology
   - Binary Translators (QEMU)
-  - GPU Time-sharing for Virtual Machines
+  - GPU Time-sharing/passthrough for Virtual Machines
 - Selenium Webdriver and Its applications in creating botnets
-- Reverse Engineering of Binaries
+- Reverse Engineering of Binaries as of recently
+- The Scala programming langauge and its usages in Spark, Deeplearning4j, and Chisel
+- The new C++ programming Language standards
+- The Julia programming language
+
 # What I'm currently Working On:
 Here are some of the things I'm working on right now:
 - My Masters Thesis, in predicting how photons progress in Monte-carlo simulated images for the MCX project to save on computation time.
