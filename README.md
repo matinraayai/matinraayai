@@ -1,6 +1,6 @@
 # About Me
-- I'm a Masters student at Northeastern University studying Electrical and Computer Engineering with a concentration in Computer Vision, Machine Learning, and Algorithms.
-- I'm currently a research assistant at Northeastern University's Computer Architecture Lab studying under Dr. David Kaeli.
+- I'm a Masters student at [Northeastern University](https://northeastern.edu) studying Electrical and Computer Engineering with a concentration in Computer Vision, Machine Learning, and Algorithms.
+- I'm currently a research assistant at [Northeastern University's Computer Architecture Lab](https://ece.northeastern.edu/groups/nucar/) studying under [Dr. David Kaeli](https://ece.northeastern.edu/fac-ece/kaeli.html).
 - I'm also working with [Harvard Visual Computing Group](https://vcg.seas.harvard.edu/) on some unfinished projects from my co-op in 2018.
 
 # Areas of Interest
@@ -14,7 +14,7 @@ I have a diverse set of interests in computer science/electrical engineering; An
 - Operating Systems
 - Hardware Architecture
 - Anything Virtualization:
-  - Level 1 Hypervisors
+  - Level 1 Hypervisors (Xen Project)
   - Qubes OS
   - Container Technology
   - Binary Translators (QEMU)
@@ -30,3 +30,5 @@ Here are some of the things I'm working on right now:
 - My Masters Thesis, in predicting how photons progress in Monte-carlo simulated images for the MCX project to save on computation time.
 - Automatic Artifact Removal in Electron Microscope Images, in collaboration with [Harvard Visual Computing Group](https://vcg.seas.harvard.edu/), a continouation of my work on [Pre-processing EM Images](https://www.github.com/donglaiw/EM-preprocess).
 
+# Ways to Contact Me:
+The best way to contact me is through the links I've included in my Github profile.
